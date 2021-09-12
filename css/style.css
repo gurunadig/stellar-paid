@@ -1,0 +1,101 @@
+
+
+.logo-img{
+    max-height: 60px;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.banner-sect{
+    background-color: #e5e3e3;
+
+}
+
+.banner-head{
+    font-size: 2vw;
+    text-align: center;
+}
+
+.banner-head-italic{
+    text-align: center;
+    font-size: 2vw;
+    letter-spacing: 0.5vw;
+    color: #d88e14;
+    
+}
+
+/* service section styling ________________________ */
+.main-headin{
+    text-align: center;
+    font-size: 2vw;
+
+}
+.main-sub-head{
+    text-align: center;
+    font-size: 1vw;
+}
+
+.serv-grid-img{
+    max-height: 150px;
+    margin-top: 20px;
+
+}
+
+.services-grid{
+    background-color: #e5e3e3;
+}
+
+.grid-text{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1vw;
+    padding: 10px;
+}
+
+.categor-text{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.categ-sub-text{
+    color: #d88e14;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+
+/* service section styling ________________________ */
+
+
+/* service section styling ________________________ */
+.btn-letstalk{
+    background-color: #d4b035;
+    border-radius: 0px !important;
+    width: 10vw;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+/* service section styling ________________________ */
+
+
+/* service section styling ________________________ */
+.client-sect{
+    background-color: #e5e3e3;
+}
+
+.carousel-text{
+    text-align: center;
+    font-size: 1.1vw;
+    font-weight: 600;
+    padding: 20px;
+}
+/* service section styling ________________________ */
