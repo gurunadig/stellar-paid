@@ -98,4 +98,137 @@
     font-weight: 600;
     padding: 20px;
 }
+
+.getin-touch-form{
+    background-color: #1c1b17;
+}
+
+.form-line{
+    background-color: #1c1b17 !important;
+    color: #fff;
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-radius: 0px !important;
+    border-bottom-color: 2px solid #d4b035 !important;
+    
+}
+
 /* service section styling ________________________ */
+
+
+.btnsubmit{
+    background-color: #d4b035;
+    border-radius: 0px !important;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+.getin-text{
+    font-size: 2vw;
+    font-weight: 700;
+    text-align: center;
+}
+
+.getin-sub-text{
+    font-size: 2vw;
+    text-align: center;
+}
+
+
+.foot-sect{
+    border-top: 10px solid #d4b035;
+    background-color: #000000;
+    color: #fff;
+}
+
+.contact-text{
+    margin-top: 40px;
+    font-size: 1.1vw;
+}
+
+.banner-text{
+
+    font-size: 1.5vw;
+    text-align: center;
+    padding: 20px;
+}
+
+.whyus-sect{
+    background-color: #d4b34c;
+}
+
+.whyus-head{
+    font-size: 2.5vw;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.gift-img{
+    max-height: 130px;
+}
+
+.whyus-text{
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 1.5vw;
+    padding: 10px;
+}
+
+.brand-img{
+    max-height: 150px;
+}
+
+.brand-sect{
+    background-color: #d4b34c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.solution-head{
+    font-size: 2vw;
+    font-weight: 700;
+    text-align: center;
+}
+
+.btn-catalog{
+    background-color: #d4b34c;
+    height: 80px;
+    padding: 10px;
+    font-size: 1.5vw;
+    font-weight: 600 !important;
+}
+
+.client-text{
+    margin-top: 40px;
+    font-size: 2vw;
+    color: #d4b035;
+}
+
+.client-sub-text{
+    font-size: 2vw;
+    margin-bottom: 40px;
+}
+
+.branding-img{
+    max-height: 150px;
+    margin-top: 10px;
+}
+
+.brand-grids{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #e5e3e3;
+    height: 450px;
+}
+
+.braning-text{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5vw;
+}
