@@ -460,6 +460,9 @@ a {
         font-size: 4vw;
         text-align: center;
     }
+    .foot-grid-text p{
+        text-align: center;
+    }
     
 }
 
