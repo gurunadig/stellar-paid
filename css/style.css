@@ -433,11 +433,23 @@ a {
 
 }
 
+
+.fab{
+    font-size: 1vw;
+    margin-left: 10px;
+}
+
 /* Contact page style goes here ______________________________________________*/
 
 
+.drop-btn{
+    color: #000;
+    font-weight: 600 !important;
+}
 
-
+.dropdown-item{
+    color: #000 !important;
+}
 
 
 
@@ -621,6 +633,9 @@ a {
     }
     .contact-head-text{
         font-size: 5vw;
+        text-align: center;
+    }
+    .res-text-center{
         text-align: center;
     }
 }
